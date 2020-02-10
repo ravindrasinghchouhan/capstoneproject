@@ -6,7 +6,7 @@
 #' Ravindra Singh Chouhan
 #' ravindra_engg_2007@yahoo.co.in
 
-#'Documentation at https://github.com/jeeweshjha/Mastering-Software-Development-in-R-Capstone
+#'Documentation at https://github.com/ravindrasinghchouhan/capstoneproject
 
 #'Use the Use_vignette once to generate the vignette folder in the package's skeleton where the vignette documentation
 #'made with rmarkdown will be made
